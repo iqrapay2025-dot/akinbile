@@ -80,16 +80,12 @@ export const Testimonials = () => {
 
               {/* Client Info */}
               <div className="flex items-center gap-4 pt-4 border-t border-gray-100">
-                <img
-                  src={testimonial.image}
-                  alt={testimonial.name}
-                  className="w-14 h-14 rounded-full object-cover border-2 border-orange-200"
-                />
+               
                 <div>
                   <h4 className="font-bold text-gray-900">{testimonial.name}</h4>
                   <p className="text-sm text-gray-600">{testimonial.role}</p>
                   <p className="text-sm text-orange-600 font-medium">
-                    {testimonial.institution}
+                    {testimonial.Location}
                   </p>
                 </div>
               </div>
