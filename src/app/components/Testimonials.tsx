@@ -119,7 +119,7 @@ export const Testimonials = () => {
             </div>
             <div className="hidden md:block w-px bg-orange-300"></div>
             <div>
-              <div className="text-4xl font-bold">5 Years</div>
+              <div className="text-4xl font-bold">25 Years</div>
               <div className="text-orange-100 text-sm">Industry Experience</div>
             </div>
           </div>
