@@ -17,7 +17,7 @@ const faqs = [
   },
   {
     question: "How long does it take to complete a bulk order?",
-    answer: "Typical production time is 2-4 weeks depending on order size and customization complexity. For urgent orders above 100,000 pieces, we can expedite production with prior arrangement."
+    answer: "Typical production time is 1-2 weeks depending on order size and customization complexity. For urgent orders above 100,000 pieces, we can expedite production with prior arrangement."
   },
   {
     question: "Do you deliver across Nigeria?",
