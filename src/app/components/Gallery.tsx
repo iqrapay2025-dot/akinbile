@@ -33,7 +33,7 @@ export function Gallery() {
         },
       },
       {
-        breakpoint: 640,
+        breakpoint: 768,
         settings: {
           slidesToShow: 1,
           slidesToScroll: 1,
@@ -56,7 +56,7 @@ export function Gallery() {
           </p>
         </div>
 
-        <div className="mx-auto sm-12 md-6 lg-4 max-w-6xl">
+        <div className="mx-auto max-w-6xl">
           <Slider {...settings}>
             {images.map((img, index) => (
               <div key={index} className="px-2">
