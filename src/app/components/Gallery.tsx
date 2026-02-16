@@ -56,7 +56,7 @@ export function Gallery() {
           </p>
         </div>
 
-        <div className="mx-auto max-w-6xl">
+        <div className="mx-auto sm-12 md-6 lg-4 max-w-6xl">
           <Slider {...settings}>
             {images.map((img, index) => (
               <div key={index} className="px-2">
@@ -67,9 +67,9 @@ export function Gallery() {
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end justify-center pb-6">
-                    <span className="text-white font-medium px-6 py-2 border-2 border-white rounded-full">
+                    {/* <span className="text-white font-medium px-6 py-2 border-2 border-white rounded-full">
                       View Details
-                    </span>
+                    </span> */}
                   </div>
                 </div>
               </div>
