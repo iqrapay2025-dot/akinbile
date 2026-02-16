@@ -3,36 +3,25 @@ import { Quote, Star } from "lucide-react";
 
 const testimonials = [
   {
-    name: "Dr. Oluwaseun Adebayo",
-    role: "Vice Chancellor",
-    institution: "Lagos State University",
+    name: "Mr. Akinyemi  Nurudeen",
+    role: "All-time Customer",
+    Location: "Lagos State",
     text: "AKINBILE STATIONERIES delivered 150,000 custom-branded exercise books for our students. The quality was exceptional and delivery was on time. Highly recommended for bulk educational supplies.",
     rating: 5,
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBhZnJpY2FuJTIwbWFufGVufDF8fHx8MTc3MTA5Nzc0Mnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
   },
   {
-    name: "Mrs. Chioma Okonkwo",
-    role: "Head of Procurement",
-    institution: "Federal Government College, Abuja",
+    name: "Mrs. Ladipo Aminat",
+    role: "Referred Client",
+    Location: "Ibadan",
     text: "We've been working with AKINBILE for 3 years. Their attention to detail in our school branding and consistent quality makes them our go-to supplier for all exercise books.",
     rating: 5,
-    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBhZnJpY2FuJTIwd29tYW58ZW58MXx8fHwxNzcxMDk3NzQyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
   },
   {
-    name: "Prof. Ibrahim Mohammed",
-    role: "Dean of Student Affairs",
-    institution: "University of Ibadan",
-    text: "The 200,000 pieces order for our university was handled professionally. The customization options allowed us to showcase our university brand perfectly on every page.",
+    name: "Mr. Okafor Chinedu",
+    role: "Institutional Buyer",
+    Location: "Abuja",
+    text: "AKINBILE's custom branding services elevated our university's stationery. The personalized covers and quality paper impressed both staff and students. Excellent service!",
     rating: 5,
-    image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxwcm9mZXNzaW9uYWwlMjBhZnJpY2FuJTIwbWFufGVufDF8fHx8MTc3MTA5Nzc0Mnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-  },
-  {
-    name: "Engr. Funmilayo Ajayi",
-    role: "Admin Manager",
-    institution: "Greenfield Schools Network",
-    text: "Outstanding service! They managed our multi-campus order of 80,000 exercise books across 5 locations. Each campus received their custom branding accurately.",
-    rating: 5,
-    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwyfHxwcm9mZXNzaW9uYWwlMjBhZnJpY2FuJTIwd29tYW58ZW58MXx8fHwxNzcxMDk3NzQyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
   },
 ];
 
