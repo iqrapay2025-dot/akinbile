@@ -137,7 +137,7 @@ export const FAQ = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://wa.me/08107048386?text=Hello!%20I%20have%20questions%20about%20your%20bulk%20order%20services."
+              href="https://wa.me/+2348107048386?text=Hello!%20I%20have%20questions%20about%20your%20bulk%20order%20services."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center px-6 py-3 bg-orange-500 text-white font-bold rounded-lg hover:bg-orange-600 transition-colors shadow-md hover:shadow-lg"
@@ -145,7 +145,7 @@ export const FAQ = () => {
               Chat on WhatsApp
             </a>
             <a
-              href="tel:08107048386"
+              href="tel:+2348107048386"
               className="inline-flex items-center justify-center px-6 py-3 bg-white text-orange-600 font-bold rounded-lg border-2 border-orange-500 hover:bg-orange-50 transition-colors"
             >
               Call Us Now
